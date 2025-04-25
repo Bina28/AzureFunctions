@@ -46,7 +46,7 @@ It demonstrates how to use different types of Azure Functions to build an event-
     - Updates the order status in **Cosmos DB** if changed.  
     - Publishes a **status change event** if the status is updated.  
     
-5.**Event Grid Trigger (`NotifyOnOrderStatusChange`)**  
+5.  **Event Grid Trigger (`NotifyOnOrderStatusChange`)**  
     - Subscribed to **Cosmos DB** change events.  
     - Listens for **order status changes**.  
     - Sends an email notification to the customer when their order status is updated.
@@ -67,7 +67,7 @@ Clone this repository to your local machine to get started with the project.
 
 ```bash
 git clone https://github.com/Bina28/AzureFunctions.git
-2. Configuration
+### 2. Configuration
 The project uses the following configurations which must be set in the Azure portal or your local environment:
 
 Azure Storage Account Connection: Used for Blob and Queue storage.
@@ -132,4 +132,5 @@ Event Grid Trigger
 Trigger: Subscribes to events from Cosmos DB related to order status changes and sends notifications to customers.
 
 ## 📊 System Design Diagram
+![image](https://github.com/user-attachments/assets/fe3604d0-3821-4351-80cf-6e13d1f246c8)
 
