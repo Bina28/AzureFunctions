@@ -60,80 +60,46 @@ It demonstrates how to use different types of Azure Functions to build an event-
     - Executes daily on a schedule.  
     - Generates a **sales report** using order data from **Cosmos DB**.
     
+# Azure Functions Setup Guide
+
 ## Setup
 
 ### 1. Clone the Repository
-Clone this repository to your local machine to get started with the project.
+Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Bina28/AzureFunctions.git
+```
 
 ### 2. Configuration
-The project uses the following configurations which must be set in the Azure portal or your local environment:
 
-Azure Storage Account Connection: Used for Blob and Queue storage.
+Example Configuration in local.settings.json:
 
-Cosmos DB Connection: Stores order data.
-
-Event Grid Endpoint and Key: Used to subscribe to and trigger events for order status changes.
-
-Key Vault URI: For managing sensitive information such as API keys.
-
-Here’s an example configuration in the local.settings.json:
-
-json
-
+```json
 {
-  "IsEncrypted": false,
+"IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "your-azure-storage-connection-string",
-    "CosmosDBConnection": "your-cosmosdb-connection-string",
+    "AzureWebJobsStorage": "<connection-string>",
+    "CosmosDBConnection": "<cosmosdb-connection>",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "ConnString": "your-azure-storage-connection-string",
-    "BlobConnection": "your-azure-storage-connection-string",
-    "eventGridEndpoint": "your-event-grid-endpoint",
-    "eventGridKey": "your-event-grid-key",
-    "VaultUri": "your-keyvault-uri",
+    "ConnString": "<connection-string>",
+    "BlobConnection": "<connection-string>",
+    "eventGridEndpoint": "<endpoint-url>",
+    "eventGridKey": "<access-key>",
+    "VaultUri": "<keyvault-uri>",
     "EventGrid_AllowAnonymousAccess": "true"
   }
 }
+```
 
-###3. Deploying to Azure
-You can deploy the functions to Azure using the Azure Functions Tools for Visual Studio or the Azure CLI.
+### 3. Deployment Options
+Visual Studio Method:
+Open solution in VS 2022+
 
-Using Azure Functions Tools for Visual Studio:
-Open the solution in Visual Studio.
+Right-click project → "Publish"
+Select Azure target
 
-Right-click the project and select Publish.
+### 4.  📊 System Design Diagram
 
-Follow the prompts to deploy the function to Azure.
-
-Using Azure CLI:
-Run az login to authenticate with your Azure account.
-
-Run func azure functionapp publish <your-function-app-name> to deploy the project.
-
-Triggers and Bindings
-HTTP Trigger
-Trigger: Receives HTTP requests to initiate the order placement.
-
-Binding: Reads order data as JSON from the request body.
-
-Queue Trigger
-Trigger: Processes order details by reading from a queue (order-processing-queue).
-
-Binding: Fetches order details from Cosmos DB using the order ID from the queue message.
-
-Cosmos DB Input
-Binding: Used to fetch order details based on the order ID stored in the queue message.
-
-Blob Storage Output
-Binding: Uploads the generated invoice text file to Azure Blob Storage under the invoices container.
-
-Event Grid Trigger
-Trigger: Subscribes to events from Cosmos DB related to order status changes and sends notifications to customers.
-
- 📊 System Design Diagram
 
 ![image](https://github.com/user-attachments/assets/f530fd14-5816-425e-900f-b065d29442e3)
-
