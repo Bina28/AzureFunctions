@@ -67,6 +67,7 @@ Clone this repository to your local machine to get started with the project.
 
 ```bash
 git clone https://github.com/Bina28/AzureFunctions.git
+
 ### 2. Configuration
 The project uses the following configurations which must be set in the Azure portal or your local environment:
 
@@ -96,7 +97,8 @@ json
     "EventGrid_AllowAnonymousAccess": "true"
   }
 }
-3. Deploying to Azure
+
+###3. Deploying to Azure
 You can deploy the functions to Azure using the Azure Functions Tools for Visual Studio or the Azure CLI.
 
 Using Azure Functions Tools for Visual Studio:
@@ -131,6 +133,7 @@ Binding: Uploads the generated invoice text file to Azure Blob Storage under the
 Event Grid Trigger
 Trigger: Subscribes to events from Cosmos DB related to order status changes and sends notifications to customers.
 
-## 📊 System Design Diagram
-![image](https://github.com/user-attachments/assets/fe3604d0-3821-4351-80cf-6e13d1f246c8)
+ 📊 System Design Diagram
+
+![image](https://github.com/user-attachments/assets/f530fd14-5816-425e-900f-b065d29442e3)
 
