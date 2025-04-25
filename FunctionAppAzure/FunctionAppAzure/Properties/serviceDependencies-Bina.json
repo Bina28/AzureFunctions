@@ -4,19 +4,6 @@
       "type": "secrets",
       "connectionId": "VaultUrl"
     },
-    "storage": {
-      "type": "storage",
-      "connectionId": "AzureWebJobsStorage"
-    },
-    "appInsights": {
-      "type": "appInsights",
-      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING"
-    },
-    "blobStorage": {
-      "type": "storage",
-      "connectionId": "BlobConnection",
-      "dynamicId": null
-    },
     "secrets1": {
       "type": "secrets",
       "connectionId": "VaultUri",
@@ -30,6 +17,19 @@
     "storage2": {
       "type": "storage",
       "connectionId": "AzureWebJobsStorage1",
+      "dynamicId": null
+    },
+    "storage": {
+      "type": "storage",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "appInsights": {
+      "type": "appInsights",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING"
+    },
+    "blobStorage": {
+      "type": "storage",
+      "connectionId": "BlobConnection",
       "dynamicId": null
     }
   }

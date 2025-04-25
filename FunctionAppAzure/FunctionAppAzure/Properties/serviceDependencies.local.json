@@ -3,12 +3,24 @@
     "appInsights1": {
       "type": "appInsights.sdk"
     },
-    "storage1": {
-      "type": "storage.emulator",
-      "connectionId": "AzureWebJobsStorage"
-    },
     "secrets1": {
       "type": "secrets.user"
+    },
+    "storage3": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/BlobConnection_06A02D5A48, /subscriptions/155d204b-1abe-4093-909f-f418b83990f3/resourceGroups/Order-recourses/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/BlobConnection_E69175125B",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/orderstorageaccount123",
+      "type": "storage.azure",
+      "connectionId": "BlobConnection",
+      "dynamicId": null
+    },
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/AzureWebJobsStorage_3AF5911B2C, /subscriptions/155d204b-1abe-4093-909f-f418b83990f3/resourceGroups/Order-recourses/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/AzureWebJobsStorage_726CF16885",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/orderstorageaccount123",
+      "type": "storage.azure",
+      "connectionId": "AzureWebJobsStorage",
+      "dynamicId": null
     },
     "storage2": {
       "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/AzureWebJobsStorage1_7DBBB81CCB, /subscriptions/155d204b-1abe-4093-909f-f418b83990f3/resourceGroups/Order-recourses/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/AzureWebJobsStorage1_DCA5391C59",

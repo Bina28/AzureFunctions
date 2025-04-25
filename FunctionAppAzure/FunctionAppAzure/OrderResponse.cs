@@ -1,6 +1,7 @@
-﻿using Microsoft.Azure.Functions.Worker.Http;
+﻿using FunctionAppAzure.Models;
 using Microsoft.Azure.Functions.Worker;
-using System.Configuration;
+using Microsoft.Azure.Functions.Worker.Http;
+using System.Collections.Generic;
 
 
 namespace FunctionAppAzure;
@@ -16,6 +17,8 @@ public class OrderResponse
 		Connection = "CosmosDBConnection")]
 	public Order CosmosOutput { get; set; }
 
-	[QueueOutput("order-processing-queue", Connection = "AzureWebJobsStorage")]
+	[QueueOutput("order-processing-queue", Connection = "ConnString")]
 	public string QueueMessage { get; set; }
+
+
 }

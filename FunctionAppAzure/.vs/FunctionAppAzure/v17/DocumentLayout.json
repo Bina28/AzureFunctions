@@ -1,49 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\",
+  "WorkspaceRootPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\processorderqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\processorderqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\simulateorderflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\simulateorderflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\updateinventoryonorderchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\updateinventoryonorderchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\publishstatuschangeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\publishstatuschangeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\processorderqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\processorderqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\functionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\notifyonorderstatuschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\notifyonorderstatuschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\invoicenotificationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\invoicenotificationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\functionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\functionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\dailysalesreportfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\dailysalesreportfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\functionappazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\functionappazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.2\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\functionappazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\functionappazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\functionappazure\\functionappazure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\azurefunctions\\functionappazure\\functionappazure\\functionappazure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C7B400F0-D81C-4AFB-A3C0-031C80F25A61}|FunctionAppAzure\\FunctionAppAzure.csproj|solutionrelative:functionappazure\\functionappazure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,29 +112,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulateOrderFlow.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\SimulateOrderFlow.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\SimulateOrderFlow.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\SimulateOrderFlow.cs",
+              "RelativeToolTip": "FunctionAppAzure\\SimulateOrderFlow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:38:37.997Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateInventoryOnOrderChange.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\UpdateInventoryOnOrderChange.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\UpdateInventoryOnOrderChange.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\UpdateInventoryOnOrderChange.cs",
+              "RelativeToolTip": "FunctionAppAzure\\UpdateInventoryOnOrderChange.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:00:37.411Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\readme.md",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\readme.md",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\readme.md",
+              "RelativeToolTip": "FunctionAppAzure\\readme.md",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-14T11:43:54.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\host.json",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\host.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\host.json",
+              "RelativeToolTip": "FunctionAppAzure\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T20:06:41.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\local.settings.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\local.settings.json",
+              "RelativeToolTip": "FunctionAppAzure\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T20:06:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublishStatusChangeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\PublishStatusChangeEvent.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\PublishStatusChangeEvent.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\PublishStatusChangeEvent.cs",
+              "RelativeToolTip": "FunctionAppAzure\\PublishStatusChangeEvent.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:28:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProcessOrderQueue.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\ProcessOrderQueue.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\ProcessOrderQueue.cs",
               "RelativeDocumentMoniker": "FunctionAppAzure\\ProcessOrderQueue.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\ProcessOrderQueue.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\ProcessOrderQueue.cs",
               "RelativeToolTip": "FunctionAppAzure\\ProcessOrderQueue.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T20:57:11.317Z",
               "EditorCaption": ""
@@ -83,34 +208,198 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\OrderResponse.cs",
+              "RelativeToolTip": "FunctionAppAzure\\OrderResponse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:55:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotifyOnOrderStatusChange.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\NotifyOnOrderStatusChange.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\NotifyOnOrderStatusChange.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\NotifyOnOrderStatusChange.cs",
+              "RelativeToolTip": "FunctionAppAzure\\NotifyOnOrderStatusChange.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:03:43.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceNotificationFunction.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\InvoiceNotificationFunction.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\InvoiceNotificationFunction.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\InvoiceNotificationFunction.cs",
+              "RelativeToolTip": "FunctionAppAzure\\InvoiceNotificationFunction.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:53:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FunctionOrder.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionOrder.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\FunctionOrder.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionOrder.cs",
+              "RelativeToolTip": "FunctionAppAzure\\FunctionOrder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:54:31.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DailySalesReportFunction.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\DailySalesReportFunction.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\DailySalesReportFunction.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\DailySalesReportFunction.cs",
+              "RelativeToolTip": "FunctionAppAzure\\DailySalesReportFunction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:28:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Program.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Program.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:57:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Services\\EmailService.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:45:41.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Models\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:46:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\OrderStatus.cs",
-              "RelativeToolTip": "FunctionAppAzure\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T20:47:19.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FunctionAppAzure.csproj",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\FunctionAppAzure.csproj",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
-              "RelativeToolTip": "FunctionAppAzure\\FunctionAppAzure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T20:26:16.064Z"
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:45:28.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Models\\Order.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Models\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:56:52.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FunctionAppAzure.csproj",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\FunctionAppAzure.csproj",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
+              "RelativeToolTip": "FunctionAppAzure\\FunctionAppAzure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T17:55:50.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.2\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.2\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.2\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.2\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAHIAAAAAAAAAAADgv4cAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-13T20:23:34.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Services\\IEmailService.cs",
+              "RelativeToolTip": "FunctionAppAzure\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:45:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-07T20:03:21.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FunctionAppAzure\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Properties\\launchSettings.json",
               "RelativeToolTip": "FunctionAppAzure\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -118,89 +407,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "host.json",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\host.json",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\host.json",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\host.json",
-              "RelativeToolTip": "FunctionAppAzure\\host.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "FunctionAppAzure",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\FunctionAppAzure.csproj",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\FunctionAppAzure.csproj",
+              "RelativeToolTip": "FunctionAppAzure\\FunctionAppAzure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T10:55:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "function.deps.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json",
+              "RelativeToolTip": "FunctionAppAzure\\bin\\Debug\\net8.0\\.azurefunctions\\function.deps.json",
+              "ViewState": "AgIAAC8LAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T20:06:41.541Z"
+              "WhenOpened": "2025-04-11T13:17:16.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\local.settings.json",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\local.settings.json",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\local.settings.json",
-              "RelativeToolTip": "FunctionAppAzure\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADhAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "FunctionAppAzure\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\AzureFunctions\\FunctionAppAzure\\FunctionAppAzure\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "FunctionAppAzure\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T20:06:05.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
-              "DocumentMoniker": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
-              "ToolTip": "C:\\Users\\dyako\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAwwIcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-07T20:03:21.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Program.cs",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\Program.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Program.cs",
-              "RelativeToolTip": "FunctionAppAzure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:57:39.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Order.cs",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\Order.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\Order.cs",
-              "RelativeToolTip": "FunctionAppAzure\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:56:52.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\OrderResponse.cs",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\OrderResponse.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\OrderResponse.cs",
-              "RelativeToolTip": "FunctionAppAzure\\OrderResponse.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:55:53.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FunctionOrder.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\FunctionOrder.cs",
-              "RelativeDocumentMoniker": "FunctionAppAzure\\FunctionOrder.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\FunctionAppAzure\\FunctionAppAzure\\FunctionOrder.cs",
-              "RelativeToolTip": "FunctionAppAzure\\FunctionOrder.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:54:31.611Z"
+              "WhenOpened": "2025-04-11T12:32:33.741Z"
             }
           ]
         }
